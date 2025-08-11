@@ -1,0 +1,6 @@
+@Phoenix.DocumentVersioningAPI_HostAddress = http://localhost:5188
+
+GET {{Phoenix.DocumentVersioningAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
